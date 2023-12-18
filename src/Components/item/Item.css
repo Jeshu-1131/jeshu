@@ -5,7 +5,8 @@
     width:300px;
 }
 .item p{
-    margin: 6px 0px;
+    margin: -1px 0px;
+
 }
 .item-prices{
     display: flex;
